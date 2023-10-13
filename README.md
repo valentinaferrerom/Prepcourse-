@@ -1,2 +1,2 @@
 # Prepcourse-
-Este es un repositorio de prueba 
+Este es un repositorio de prueba, para crear un repositorio 
